@@ -1,1 +1,5 @@
-
+revolugst-website/
+│
+├─ index.html
+├─ style.css
+└─ images/       ← optional, for logos or icons
