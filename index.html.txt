@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RevoluGST - Practice Site</title>
+    <style>
+        body { font-family: Arial; margin: 0; padding: 0; }
+        header { background: #007bff; color: white; padding: 20px; text-align: center; }
+        nav a { margin: 0 10px; color: white; text-decoration: none; }
+        section { padding: 20px; }
+        footer { background: #333; color: white; text-align: center; padding: 10px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>RevoluGST</h1>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Services</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Welcome to RevoluGST</h2>
+        <p>This is a simple practice website like ClearTax.</p>
+    </section>
+
+    <footer>
+        &copy; 2025 RevoluGST
+    </footer>
+</body>
+</html>
