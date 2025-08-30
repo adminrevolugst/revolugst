@@ -107,4 +107,17 @@ a:hover { text-decoration: underline; }
 @media (max-width: 640px){
   .nav{ display:none; } /* keep it simple for now */
   .grid.pricing{ grid-template-columns: 1fr; }
-}
+}    
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Test Page</title>
+</head>
+<body>
+  <h1>Hello, GitHub Pages works!</h1>
+  <p>If you see this, your index.html is set up correctly.</p>
+</body>
+</html>
